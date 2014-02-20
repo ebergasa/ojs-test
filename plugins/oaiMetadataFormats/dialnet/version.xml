@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/oaiMetadataFormats/dialnet/version.xml
+  *
+  *
+  * Plugin version information.
+  -->
+<version>
+	<application>dialnet</application>
+	<type>plugins.oaiMetadataFormats</type>
+	<release>1.0.0.0</release>
+	<date>2014-02-18</date>
+</version>
